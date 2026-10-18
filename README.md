@@ -88,6 +88,7 @@
 | 👀 | [SpaceApp](https://github.com/oll4com/spaceapp) | self-hosted, web-ui, multi-agent, docker, source-available | Self-hosted web workspace that runs OpenCode, Codex, Claude Code, Gemini CLI and other coding CLIs side by side in persistent rooms, with MCP servers and managed browser panes |
 | 👀 | [CurlShot MCP](https://github.com/SergiuPogor/curlshot-mcp) | mcp, screenshot, pdf, hosted | Hosted MCP server for CurlShot: let AI agents take screenshots of any web page (PNG, JPEG, WebP, PDF, video). Setup for Claude, Cursor, VS Code. |
 | 👀 | [Sqwakie](https://github.com/alexcarney460-hue/walkie) | multi-agent, peer-to-peer, kanban, mcp, source-available | A walkie-talkie for your team's AI agents: Mission Control, project boards with Data Rooms, seats, peer-to-peer Walkie Direct, pooled local LLMs. FSL-1.1-ALv2. |
+| 👀 | [Alchemist Coder](https://github.com/Alekla0126/alchemist-coder) | desktop, acp, subagents, local-models | Free, open-source desktop app for Claude Code and Codex: follow every agent and subagent live, run your own agent organization and automate routines. Also searches your Gemini CLI and Grok history. macOS, Windows, Linux. |
 
 ## Agent Instructions
 
