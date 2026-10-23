@@ -93,6 +93,7 @@
 | 👀 | [acpantenna](https://github.com/fboldo/acpantenna) | acp, remote-access, e2e, qr | An ngrok for your coding agent. Use Claude Code, Codex or any ACP agent from your phone, end-to-end encrypted. |
 | 👀 | [autoharness](https://github.com/D-Shey/autoharness) | harness, skills, critic, mcp-gateway | Engineering discipline for coding agents: prepare before building, check against the original, let an independent critic judge the result. |
 | 👀 | [Campfire SMS](https://github.com/campfiresms/campfire-mcp) | mcp, sms, notifications, hosted | Hosted two-way SMS bridge: your coding agent texts you, you reply by SMS. Install via campfiresms.com. |
+| 👀 | [deed-page-skill](https://github.com/f-o-x11/deed-page-skill) | skill, publish, static-hosting, mcp, no-account | Agent skill: publish files to a permanent deed.page URL with one curl request. No account. |
 
 ## Agent Instructions
 
